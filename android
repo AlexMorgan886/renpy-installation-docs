@@ -1,0 +1,9 @@
+# Android Specific Notes
+
+This section contains Android-specific compatibility notes for Ren'Py builds.
+
+## Storage Permission Handling
+Modern Android versions require manual permission approval.
+
+## Scoped Storage Changes
+Android 11+ may restrict external save directories.
