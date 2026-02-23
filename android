@@ -7,3 +7,9 @@ Modern Android versions require manual permission approval.
 
 ## Scoped Storage Changes
 Android 11+ may restrict external save directories.
+
+## Save File Location
+
+Typical save directory path:
+
+/storage/emulated/0/Android/data/<game-folder>/files/saves
