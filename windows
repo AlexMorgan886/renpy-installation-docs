@@ -7,3 +7,9 @@ Some builds may trigger false positives.
 
 ## SmartScreen Warnings
 Unsigned executables may display warnings.
+
+## Save File Directory
+
+Default save path:
+
+C:\Users\<username>\AppData\Roaming\RenPy
