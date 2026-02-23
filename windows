@@ -1,0 +1,9 @@
+# Windows Compatibility Notes
+
+Documentation for Windows-based Ren'Py builds.
+
+## Antivirus False Positives
+Some builds may trigger false positives.
+
+## SmartScreen Warnings
+Unsigned executables may display warnings.
