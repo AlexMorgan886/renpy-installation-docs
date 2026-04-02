@@ -1,8 +1,24 @@
-# Ren'Py Installation Documentation
+# RenPy Installation Guide (Android, PC, Mac)
 
-This repository provides structured documentation for installing and troubleshooting Ren'Py-based visual novel games on Android and Windows PC systems.
+This repository provides a structured installation and troubleshooting guide for RenPy-based applications across Android, Windows, and Mac.
 
-The goal of this documentation is to reduce common installation errors, permission conflicts, corrupted save data, and compatibility issues.
+It is designed to help non-technical users successfully install, run, and fix common issues in RenPy environments, including storage errors, missing files, and compatibility problems.
+
+The project focuses on practical, real-world usage rather than theoretical documentation.
+
+---
+
+## Project Scope
+
+This documentation project is actively maintained to support users installing RenPy-based applications outside traditional app stores.
+
+It includes:
+- Cross-platform installation workflows
+- Common error fixes and troubleshooting
+- External documentation resources
+- Continuous updates based on real user issues
+
+The goal is to reduce friction for users interacting with RenPy-based projects and improve accessibility for a wider audience.
 
 ---
 
@@ -61,7 +77,7 @@ The goal of this documentation is to reduce common installation errors, permissi
 
 ---
 
-## Extended Troubleshooting Resources
+## External Documentation & Resources
 
 Detailed step-by-step guides available at:
 
@@ -70,6 +86,28 @@ https://summersagahub.com/install-summertime-saga-mod-pc/
 https://summersagahub.com/how-to-install-summertime-saga/
 
 https://summersagahub.com/summertime-saga-mod-errors-fix/
+
+---
+
+## Maintenance
+
+This project is actively updated to reflect:
+- Installation changes
+- OS compatibility updates
+- Common user-reported issues
+
+Last updated: April 2026
+
+---
+
+## Contribution
+
+This repository is part of an ongoing effort to document and simplify installation processes for RenPy-based applications.
+
+Future improvements may include:
+- Expanded troubleshooting database
+- Additional platform-specific fixes
+- User-reported issue tracking
 
 ---
 
